@@ -1,0 +1,10 @@
+name: expense_repository
+description: Local expense repository package for the expenses tracker app.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  equatable: ^2.0.5

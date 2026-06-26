@@ -1,0 +1,2 @@
+// Firebase has been replaced by Supabase.
+// This file is kept as a placeholder to avoid breaking any existing references.
